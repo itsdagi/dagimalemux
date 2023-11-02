@@ -15,10 +15,13 @@
 <h2 align="center">💻 Technologies & Skills</h2>
 
 <p align="center">
-  <strong>Languages:</strong> JavaScript, React, Assembly Language, Java, Python<br>
-  <strong>UI/UX:</strong> HTML, CSS, Figma, Adobe XD<br>
-  <strong>Data Analytics:</strong> Python (NumPy, Pandas), SQL<br>
-  <strong>Version Control:</strong> Git, GitHub
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React">
+  <img src="https://img.icons8.com/ios/50/000000/assembly.png" alt="Assembly Language">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/ui-ux-design.png" alt="UI/UX">
+  <img src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="Data Analytics">
 </p>
 
 <h2 align="center">📚 Blog & Articles</h2>
