@@ -6,22 +6,21 @@
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
 </p>
 
-<p align="center">Passionate about JavaScript, React, Assembly Language, Java, Python, UI/UX, and Data Analytics</p>
+<p align="center">Passionate about JavaScript, React, Java, Python, and Data Analytics</p>
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">I'm a versatile developer with a love for low-level assembly language and high-level UI/UX design. My journey in tech has been an exciting adventure, and I'm constantly pushing the boundaries of what's possible.</p>
+<p align="center">I'm a versatile developer with a love for high-level UI/UX design. My journey in tech has been an exciting adventure, and I'm constantly pushing the boundaries of what's possible.</p>
 
 <h2 align="center">💻 Technologies & Skills</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React">
-  <img src="https://img.icons8.com/ios/50/000000/assembly.png" alt="Assembly Language">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-  <img src="https://img.icons8.com/color/48/000000/ui-ux-design.png" alt="UI/UX">
-  <img src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="Data Analytics">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/96/000000/react.png" alt="React">
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java">
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/96/000000/ui-ux-design.png" alt="UI/UX">
+  <img src="https://img.icons8.com/color/96/000000/data-configuration.png" alt="Data Analytics">
 </p>
 
 <h2 align="center">📚 Blog & Articles</h2>
@@ -40,7 +39,7 @@
 <p align="center">
   - Machine Learning with Python<br>
   - Advanced React patterns<br>
-  - Game development with Assembly Language
+  - Web and Mobile UI/UX design
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
@@ -53,3 +52,4 @@
 </p>
 
 <p align="center">Let's collaborate and build something amazing together! 🚀</p>
+
