@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
-  <img src="https://icons8.com/icon/hCgWxZnDjiIJ/atom" alt="React">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yourteaminindia.com%2Fblog%2Freactjs-for-enterprise-app-development&psig=AOvVaw3B0z75sFfYPgUZBi-tZlis&ust=1699033288276000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC0_q7upYIDFQAAAAAdAAAAABAR" alt="React">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java">
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
   
