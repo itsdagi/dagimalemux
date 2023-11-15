@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name] 🚀</h1>
+<h1 align="center">👋 Hi, I'm Dagim 🚀</h1>
 
 <p align="center">
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4" alt="Portfolio"></a>
@@ -14,19 +14,9 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yourteaminindia.com%2Fblog%2Freactjs-for-enterprise-app-development&psig=AOvVaw3B0z75sFfYPgUZBi-tZlis&ust=1699033288276000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC0_q7upYIDFQAAAAAdAAAAABAR" alt="React">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java">
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
   
-</p>
-
-<h2 align="center">📚 Blog & Articles</h2>
-
-<p align="center">I occasionally write about my tech journey and insights. Check out my latest articles:</p>
-
-<p align="center">
-  - [Blog Post 1](https://yourblog.com/post1): Title and brief description. 📝
-  - [Blog Post 2](https://yourblog.com/post2): Another interesting post. 📝
 </p>
 
 <h2 align="center">🌱 What I'm Learning</h2>
@@ -43,8 +33,8 @@
 <p align="center">Feel free to reach out if you have any questions, suggestions, or just want to chat!</p>
 
 <p align="center">
-  📧 Email: your.email@example.com
-  💬 Discord: yourusername#1234
+  📧 Email: alemud@cua.edu
+  💬 Discord: dagimalemux
 </p>
 
 <p align="center">Let's collaborate and build something amazing together! 🚀</p>
