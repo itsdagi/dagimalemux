@@ -13,13 +13,13 @@
 <h2 align="center">💻 Technologies & Skills</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=256&id=Mm35TzLKahiF&format=png" alt="Svelte">
-  <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JavaScript">
-  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java">
-  <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python">
-  
+      <div align="center">
+            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=Mm35TzLKahiF&format=png" alt="Svelte"></a>
+            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=1ZSHk8m9bk4p&format=png" alt="JavaScript"></a>
+            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=46630&format=png" alt="Java"></a>
+            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=121464&format=png" alt="Python"></a>
+     <div align="center">
 </p>
-
 <h2 align="center">🌱 What I'm Learning</h2>
 
 <p align="center">I'm currently exploring:</p>
