@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java">
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
   
@@ -26,6 +27,7 @@
 <p align="center">
   - Machine Learning with Python 🤖
   - Advanced React patterns ⚛️
+  - Svelte 😇
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
