@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/dagimalemux"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://twitter.com/dagimalemux"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
 </p>
 
 <p align="center">Passionate about JavaScript, React, Java, Python, and Data Analytics</p>
