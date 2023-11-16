@@ -13,7 +13,7 @@
 <h2 align="center">💻 Technologies & Skills</h2>
 
 <p align="center">
-  <img src="https://icons8.com/icon/Mm35TzLKahiF/svelte" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=256&id=Mm35TzLKahiF&format=png" alt="Svelte">
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java">
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
