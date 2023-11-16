@@ -14,9 +14,9 @@
 
 <p align="center">
   <img src="https://img.icons8.com/?size=256&id=Mm35TzLKahiF&format=png" alt="Svelte">
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java">
-  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java">
+  <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python">
   
 </p>
 
