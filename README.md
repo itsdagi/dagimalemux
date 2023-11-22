@@ -6,7 +6,7 @@
   <a href="https://twitter.com/dagimalemux"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
 </p>
 
-<p align="center">Passionate about JavaScript, React, Java, Python, and Data Analytics</p>
+<p align="center">Passionate about JavaScript, Python, and Data Analytics</p>
 
 <p align="justify" style="text-align:justify;">👨🏿‍💻
 I'm a versatile developer with a love for exploring cutting-edge technology. My journey in tech has been an exciting adventure, and I'm constantly pushing the boundaries of what's possible. Whether it's crafting elegant user interfaces or diving into the intricacies of data analysis, I thrive on challenges that broaden my skill set and deepen my understanding of the digital world. 🌐</p>
