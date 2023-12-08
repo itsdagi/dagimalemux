@@ -18,7 +18,6 @@ I'm a versatile developer with a love for exploring cutting-edge technology. My 
             <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=Mm35TzLKahiF&format=png" alt="Svelte"></a>
              <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" alt="React"></a>
             <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=1ZSHk8m9bk4p&format=png" alt="JavaScript"></a>
-            
             <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=121464&format=png" alt="Python"></a>
      <div align="center">
 </p>
