@@ -5,7 +5,12 @@
   <a href="https://www.linkedin.com/in/dagimalemux"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="https://twitter.com/dagimalemux"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
 </p>
-
+<a href="https://github.com/dagimalemux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimalemux&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+</a>
+<a href="https://github.com/dagimalemux">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagimalemux&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+</a>
 <p align="center">Passionate about JavaScript, Python, and Data Analytics</p>
 
 <p style="text-align:justify; border-color: 1px solid red;">👨🏿‍💻
