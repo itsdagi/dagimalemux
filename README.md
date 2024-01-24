@@ -13,7 +13,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagimalemux&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
 
-<p align="center">Passionate about JavaScript, Python, and Data Analytics</p>
+<h3 align="center">Passionate about JavaScript, Python, and Data Analytics</h3>
 
 <p style="text-align:justify; border-color: 1px solid red;">👨🏿‍💻
 I'm a versatile developer with a love for exploring cutting-edge technology. My journey in tech has been an exciting adventure, and I'm constantly pushing the boundaries of what's possible. Whether it's crafting elegant user interfaces or diving into the intricacies of data analysis, I thrive on challenges that broaden my skill set and deepen my understanding of the programming world. 🌐</p>
