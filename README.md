@@ -51,7 +51,8 @@ I'm a versatile developer with a love for exploring cutting-edge technology. My 
 
 <p align="center">🌌 Let's collaborate and build something amazing together! ♨️</p>
 
+<img src="https://private-user-images.githubusercontent.com/133212131/290578375-d44c5378-1b60-4b51-a2b6-42de44579100.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwODQxNTgsIm5iZiI6MTcwNjA4Mzg1OCwicGF0aCI6Ii8xMzMyMTIxMzEvMjkwNTc4Mzc1LWQ0NGM1Mzc4LTFiNjAtNGI1MS1hMmI2LTQyZGU0NDU3OTEwMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwODEwNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YzFmYWM3YWUzY2U3YWU2MzA3MWM5ZDFhNWYwODE1NjU2Y2YxZWU3MTgxNjY5ZmNkZjA1ODgwMTkwOGMwMDAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VdPNIaRu0TMNS_MCN4ITf9ADTrQLEKjuohUf9Bj1F7Q" width="800">
+<img width="706" alt="Screenshot 2024-01-24 105547" src="https://github.com/dagimalemux/dagimalemux/assets/133212131/391ce218-7568-4257-80b1-481653fb0755">
 
-<img width="1065" alt="Screenshot 2024-01-24 105547" src="https://github.com/dagimalemux/dagimalemux/assets/133212131/391ce218-7568-4257-80b1-481653fb0755">
 
 
