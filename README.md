@@ -1,22 +1,24 @@
-<h1 align="center">👋 Hi, I'm Dagim 🚀</h1>
+<h1 align="center"> 🧸 Hi, I'm Dagim 🚀</h1>
 
 <p align="center">
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/dagimalemux"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="https://twitter.com/dagimalemux"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
 </p>
+
 <a href="https://github.com/dagimalemux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimalemux&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
-<a href="https://github.com/dagimalemux">
+<a align="center" href="https://github.com/dagimalemux">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagimalemux&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
+
 <p align="center">Passionate about JavaScript, Python, and Data Analytics</p>
 
 <p style="text-align:justify; border-color: 1px solid red;">👨🏿‍💻
 I'm a versatile developer with a love for exploring cutting-edge technology. My journey in tech has been an exciting adventure, and I'm constantly pushing the boundaries of what's possible. Whether it's crafting elegant user interfaces or diving into the intricacies of data analysis, I thrive on challenges that broaden my skill set and deepen my understanding of the programming world. 🌐</p>
 
-<h2 align="center">💻 Technologies & Skills</h2>
+<h2 align="center">🧑‍💻 Technologies & Skills</h2>
 
 <p align="center">
       <div align="center">
@@ -31,9 +33,9 @@ I'm a versatile developer with a love for exploring cutting-edge technology. My 
 <p align="center">I'm currently exploring:</p>
 
 <p align="center">
-  - Machine Learning with Python 🤖
-  - Advanced React patterns ⚛️
-  - Svelte 😇
+👣 Machine Learning with Python 🤖
+👣 Advanced React patterns ⚛️
+👣 Svelte 😇
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
@@ -41,10 +43,15 @@ I'm a versatile developer with a love for exploring cutting-edge technology. My 
 <p align="center">Feel free to reach out if you have any questions, suggestions, or just want to chat!</p>
 
 <p align="center">
-  📧 Email: alemud@cua.edu
-  💬 Discord: dagimalemux
+  📧 Email: alemud@cua.edu / dagimalemux@gmail.com
+  🔔 Discord: dagimalemux  
+  🤳 Telegram: @xydagim
+  ☎️ +251-986-213-454
 </p>
 
-<p align="center">Let's collaborate and build something amazing together! 🚀</p>
+<p align="center">🌌 Let's collaborate and build something amazing together! ♨️</p>
+
+
+<img width="1065" alt="Screenshot 2024-01-24 105547" src="https://github.com/dagimalemux/dagimalemux/assets/133212131/391ce218-7568-4257-80b1-481653fb0755">
 
 
