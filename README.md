@@ -53,8 +53,6 @@ I'm a versatile developer with a love for exploring cutting-edge technology. My 
 
 
 
-![taskist21](https://github.com/dagimalemux/dagimalemux/assets/133212131/704de693-f76c-48f4-9fa1-1bb05c38cb36)
-
 
 ![tasklist1](https://github.com/dagimalemux/dagimalemux/assets/133212131/12dda678-d04a-454b-84d8-d6b2de0e7c2d)
-<img width="706" alt="Screenshot 2024-01-24 105547" src="https://github.com/dagimalemux/dagimalemux/assets/133212131/391ce218-7568-4257-80b1-481653fb0755">
+
