@@ -54,5 +54,4 @@ I'm a versatile developer with a love for exploring cutting-edge technology. My 
 
 
 
-![tasklist1](https://github.com/dagimalemux/dagimalemux/assets/133212131/12dda678-d04a-454b-84d8-d6b2de0e7c2d)
 
