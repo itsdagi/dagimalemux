@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/dagimalemux"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="https://twitter.com/dagimalemux"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
 </p>
-
+<div align = "center">
 <a href="https://github.com/dagimalemux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimalemux&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
@@ -14,7 +14,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagimalemux&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagimalemux&" alt="dagimalemux" /></p>
-
+</div>
 <h3 align="center">Passionate about JavaScript, Python, and Data Analytics</h3>
 
 <h2 align="center">🧑‍💻 Technologies & Skills</h2>
