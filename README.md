@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagimalemux&label=Profile%20views&color=0e75b6&style=flat" alt="dagimalemux" /> </p>
 <h1 align="center">  Hi, I'm Dagim Alemu 🧸 </h1>
 
 <p align="center">
@@ -12,6 +13,7 @@
 <a align="center" href="https://github.com/dagimalemux">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagimalemux&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagimalemux&" alt="dagimalemux" /></p>
 
 <h3 align="center">Passionate about JavaScript, Python, and Data Analytics</h3>
 
