@@ -17,9 +17,6 @@
 
 <h3 align="center">Passionate about JavaScript, Python, and Data Analytics</h3>
 
-<p style="text-align:justify; border-color: 1px solid red;"> 🌤️
-I'm a versatile developer with a love for exploring cutting-edge technology. My journey in tech has been an exciting adventure, and I'm constantly pushing the boundaries of what's possible. Whether it's crafting elegant user interfaces or diving into the intricacies of data analysis, I thrive on challenges that broaden my skill set and deepen my understanding of the programming world. 🌎</p>
-
 <h2 align="center">🧑‍💻 Technologies & Skills</h2>
 
 <p align="center">
