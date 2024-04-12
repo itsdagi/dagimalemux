@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagimalemux&label=Profile%20views&color=0e75b6&style=flat" alt="dagimalemux" /> </p>
-<h1 align="center">  Hi, I'm Dagim Alemu  taye</h1>
+<h1 align="center">  Hi, I'm Dagim</h1>
 
 <p align="center">
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4" alt="Portfolio"></a>
