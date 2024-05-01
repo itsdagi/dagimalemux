@@ -19,14 +19,7 @@
 
 <h2 align="center">🧑‍💻 Technologies & Skills</h2>
 
-<p align="center">
-      <div align="center">
-            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=Mm35TzLKahiF&format=png" alt="Svelte"></a>
-             <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" alt="React"></a>
-            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=1ZSHk8m9bk4p&format=png" alt="JavaScript"></a>
-            <a href="https://yourportfolio.com"><img src="https://img.icons8.com/?size=128&id=121464&format=png" alt="Python"></a>
-     <div align="center">
-</p>
+
 <h2 align="center">🌱 What I'm Learning</h2>
 
 <p align="center">I'm currently exploring:</p>
